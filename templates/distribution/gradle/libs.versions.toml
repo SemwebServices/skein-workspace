@@ -1,0 +1,8 @@
+[versions]
+# generator fills concrete versions per module
+
+[libraries]
+# generator fills library aliases per module
+
+[bundles]
+# generator fills skein_all
